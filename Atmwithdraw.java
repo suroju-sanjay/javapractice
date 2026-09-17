@@ -24,7 +24,6 @@ public class Atmwithdraw {
 			System.out.println(+withdrawamount + "withdraw successful ");
 			System.out.println("pin " + pin);
 			System.out.println("available balance " + newbalance);
-
 		}
 	}
 }
